@@ -14,7 +14,7 @@
     "prettier": "^3.2.5",
     "vite": "^4.5.2"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Alexander Repeta  <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@fontsource/poppins": "^5.0.14",
